@@ -3,7 +3,7 @@ currently workin on: making it out of school and a meme pexeso website <br>learn
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZGy9hrsk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prokyy.t) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/prokyy.t) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@prokyy_t) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ZGy9hrsk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prokyy.t) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/prokyy.t) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@prokyy_t) <br>
 https://proky.vercel.app
 
 # 💻 Tech Stack:
