@@ -1,5 +1,5 @@
 # 😁 About Me:
-currently workin on: making it out of school / tictactoe in react <br>learning javascript / react / node.js<br>i like gambling / martial arts
+currently workin on: making it out of school <br>learning javascript / react / node.js<br>i like gambling / martial arts
 
 
 ## 🌐 Socials:
