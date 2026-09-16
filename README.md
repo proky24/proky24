@@ -1,5 +1,5 @@
 # 😁 About Me:
-currently workin on: making it out of school / LiQa Sto <br><br>i like  martial arts
+currently workin on: making it out of school / Sinfulness <br><br>i like  martial arts
 
 
 ## 🌐 Socials:
